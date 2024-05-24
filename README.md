@@ -1,4 +1,6 @@
 Santiago Ruggeri - Fullstack Developer
+
+
 ¡Hola! 👋 Soy Santiago Ruggeri, un apasionado Fullstack Developer con sede en Argentina. Bienvenido a mi rincón en GitHub, donde encontrarás una muestra de mi trabajo y proyectos.
 
 Acerca de mí
