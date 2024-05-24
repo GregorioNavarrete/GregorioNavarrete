@@ -10,7 +10,7 @@ Acerca de mí
 
 🚀 Tecnologías: Node.js, Java, JavaScript, React.js, MySQL, Express.js, Sequelize.js
 
-🌐 LinkedIn: [CSRuggeri](https://www.linkedin.com/in/gregorio-navarrete/)
+🌐 LinkedIn: [Gregorio Navarrete](https://www.linkedin.com/in/gregorio-navarrete/)
 
 
 
